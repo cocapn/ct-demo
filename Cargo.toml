@@ -1,0 +1,11 @@
+[package]
+name = "ct-demo"
+version = "0.2.0"
+edition = "2021"
+description = "Constraint Theory drift-free computation demo — exact integer arithmetic vs float error accumulation"
+license = "MIT"
+repository = "https://github.com/cocapn/ct-demo"
+
+[dependencies]
+
+[dev-dependencies]
